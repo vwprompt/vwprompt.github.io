@@ -36,4 +36,4 @@ Character-Grounded Story Generation with Curated Image Sequences}",
 
 
 ## Contact
-For any questions or issues with the dataset, please open an issue on this Github page or contact [Xudong Hong](xhong@coli.uni-saarland.de).
+For any questions or issues with the dataset, please open an issue on this Github page or contact [Xudong Hong](mailto:xhong@coli.uni-saarland.de).
