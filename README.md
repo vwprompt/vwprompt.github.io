@@ -15,18 +15,15 @@ We also propose a character-based story generation model driven by coherence as 
 ## Citation
 The Visual Writing Prompts dataset is available for research purposes. If you use this dataset in your work, please cite the following paper:
 ```
-@article{10.1162/tacl_a_00444,
-    author = {Xudong Hong, Asad Sayeed, Khushboo Mehra, Vera Demberg and Bernt Schiele},
-    title = "{Visual Writing Prompts:
-Character-Grounded Story Generation with Curated Image Sequences}",
-    journal = {Transactions of the Association for Computational Linguistics},
-    volume = {11},
-    year = {2023},
-    month = {03},
-    issn = {2307-387X},
-    doi = {10.1162/tacl_a_00444},
-    url = {https://doi.org/10.1162/tacl\_a\_00444},
-    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00444/1986589/tacl\_a\_00444.pdf},
+@misc{https://doi.org/10.48550/arxiv.2301.08571,
+  doi = {10.48550/ARXIV.2301.08571},
+  url = {https://arxiv.org/abs/2301.08571},
+  author = {Hong, Xudong and Sayeed, Asad and Mehra, Khushboo and Demberg, Vera and Schiele, Bernt},
+  keywords = {Computation and Language (cs.CL), Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Visual Writing Prompts: Character-Grounded Story Generation with Curated Image Sequences},
+  publisher = {arXiv},
+  year = {2023},
+  copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
 
