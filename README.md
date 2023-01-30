@@ -1,7 +1,7 @@
 # Visual Writing Prompts Dataset (VWP)
 
 ## Announcement
-We will make the full dataset available before our conference presentation. 
+We will make the full dataset available in the [vwp repo](https://github.com/vwprompt/vwp) before our conference presentation. 
 
 ## Introduction
 Current work on image-based story generation suffers from the fact that existing image sequence collections do not have coherent plots behind them. To improve visual story generation, we present a new image-grounded dataset, Visual Writing Prompts (VWP). 
@@ -36,4 +36,4 @@ Character-Grounded Story Generation with Curated Image Sequences}",
 
 
 ## Contact
-For any questions or issues with the dataset, please open an issue on this Github page or contact us at [xhong@coli.uni-saarland.de].
+For any questions or issues with the dataset, please open an issue on this Github page or contact [Xudong Hong](xhong@coli.uni-saarland.de).
