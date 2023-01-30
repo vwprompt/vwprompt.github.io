@@ -13,7 +13,7 @@ The Visual Writing Prompts dataset contains almost 2K selected sequences of movi
 We also propose a character-based story generation model driven by coherence as a strong baseline. Evaluations show that our generated stories are more coherent, visually grounded, and more diverse than stories generated with the current state-of-the-art model.
 
 ## Citation
-The Visual Writing Prompts dataset is available for research purposes. If you use this dataset in your work, please cite the following paper:
+The Visual Writing Prompts dataset is available for research purposes. If you use this dataset in your work, please cite the following arXiv pre-print before the release of this article in TACL 2023:
 ```
 @misc{https://doi.org/10.48550/arxiv.2301.08571,
   doi = {10.48550/ARXIV.2301.08571},
