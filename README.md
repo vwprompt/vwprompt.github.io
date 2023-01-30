@@ -1,10 +1,10 @@
-# Visual Writing Prompts Dataset
+# Visual Writing Prompts Dataset (VWP)
 
 ## Announcement
 We will make the full dataset available before our conference presentation. 
 
 ## Introduction
-Current work on image-based story generation suffers from the fact that existing image sequence collections do not have coherent plots behind them. To improve visual story generation, we present a new image-grounded dataset, Visual Writing Prompts (VisuWrite). 
+Current work on image-based story generation suffers from the fact that existing image sequence collections do not have coherent plots behind them. To improve visual story generation, we present a new image-grounded dataset, Visual Writing Prompts (VWP). 
 
 ## Dataset Description
 The Visual Writing Prompts dataset contains almost 2K selected sequences of movie shots, each including 5-10 images. The image sequences are aligned with a total of 12K stories which were collected via crowdsourcing given the image sequences and a set of grounded characters from the corresponding image sequence. Our new image sequence collection and filtering process has allowed us to obtain stories that are more coherent and more diverse compared to previous work. 
