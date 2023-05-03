@@ -1,7 +1,14 @@
 # Visual Writing Prompts Dataset (VWP)
 
 ## Announcement
+We are presenting our paper at EACL poster session, 9:00, 03 May 2023. 
+
+**30 Mar 2023.** The [first release](https://github.com/vwprompt/vwp/releases/tag/v1.0.0) of our dataset is online. 
+
+**20 Jan 2023.** The pre MIT press version of our paper is on [arxiv](https://arxiv.org/abs/2301.08571v1). 
+
 We will make the full dataset available in the [vwp repo](https://github.com/vwprompt/vwp) before our conference presentation. 
+
 
 ## Introduction
 Current work on image-based story generation suffers from the fact that existing image sequence collections do not have coherent plots behind them. To improve visual story generation, we present a new image-grounded dataset, Visual Writing Prompts (VWP). 
