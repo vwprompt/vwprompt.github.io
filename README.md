@@ -1,6 +1,6 @@
 # Visual Writing Prompts Dataset (VWP)
 
-**[Website](https://vwprompt.github.io/)** | **[Github Repository](https://github.com/vwprompt/vwp)** | **[arXiv e-Print](https://arxiv.org/abs/2301.08571)**
+**[Hugging Face Datasets (New!)](https://arxiv.org/abs/2301.08571)** | **[Github Repository](https://github.com/vwprompt/vwp)** | **[arXiv e-Print](https://arxiv.org/abs/2301.08571)** | **[Website](https://vwprompt.github.io/)**
 
 <!-- Provide a quick summary of the dataset. -->
 
@@ -14,6 +14,8 @@ movie shots, each including 5-10 images. The image sequences are aligned with a 
 - **TACL 2023 Paper:** [Visual Writing Prompts: Character-Grounded Story Generation with Curated Image Sequences](https://doi.org/10.1162/tacl_a_00553)
 
 # Announcement
+We have made version 2 of VWP available in [Hugging Face Datasets](https://arxiv.org/abs/2301.08571) and [Github Repository](https://github.com/vwprompt/vwp). 
+
 We are presenting our paper at EACL poster session, 9:00, 03 May 2023. 
 
 **30 Mar 2023.** The [first release](https://github.com/vwprompt/vwp/releases/tag/v1.0.0) of our dataset is online. 
