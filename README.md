@@ -14,7 +14,7 @@ movie shots, each including 5-10 images. The image sequences are aligned with a 
 - **TACL 2023 Paper:** [Visual Writing Prompts: Character-Grounded Story Generation with Curated Image Sequences](https://doi.org/10.1162/tacl_a_00553)
 
 # Announcement
-We have made version 2 of VWP available in [Hugging Face Datasets](https://arxiv.org/abs/2301.08571) and [Github Repository](https://github.com/vwprompt/vwp). 
+We have made version 2 of VWP available in [Hugging Face Datasets](https://huggingface.co/datasets/tonyhong/vwp) and [Github Repository](https://github.com/vwprompt/vwp). 
 
 We are presenting our paper at EACL poster session, 9:00, 03 May 2023. 
 
